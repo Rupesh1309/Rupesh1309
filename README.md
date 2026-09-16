@@ -77,15 +77,6 @@ I'm consistently practicing **Data Structures & Algorithms** and solving problem
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rupesh1309&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-
-</div>
-
----
 
 ## 🎯 2026 Goals
 
@@ -106,6 +97,8 @@ I'm consistently practicing **Data Structures & Algorithms** and solving problem
 <a href="https://github.com/Rupesh1309">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rupeshyadav13/)
 
 </div>
 
