@@ -16,7 +16,6 @@ I enjoy solving **DSA problems**, building projects, exploring **Machine Learnin
 * 🧠 Interested in **AI/ML, Software Development & Problem Solving**
 * 👥 Vice President @ **NIET Coding Cadets**
 * 📚 Always learning something new
-* ⚡ Fun fact: I enjoy turning difficult coding problems into simpler ones!
 
 ---
 
